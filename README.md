@@ -1,2 +1,2 @@
-# Project
+# EduappProject
 More
